@@ -21,3 +21,7 @@ Route::get('/', function () {
 Route::get('/historia', function () {
     return view('historia');
 });
+
+Route::get('/motos', function () {
+    return view('motos');
+});
