@@ -80,7 +80,6 @@
     <footer>
         <a href="#titulo">Ir al comienzo</a>
         <a href="https://somosmoto.pe/catalogo-de-motos">Contáctame aquí</a>
-        <p>Copyright 2021</p>
     </footer>
 </body>
 </html>
